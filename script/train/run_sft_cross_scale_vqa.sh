@@ -12,5 +12,5 @@ export WANDB_PROJECT=triplet_new_mcq_batch2_sft
 
 cd "${PROJECT_ROOT}/LLaMA-Factory"
 CUDA_VISIBLE_DEVICES=0 \
-llamafactory-cli train examples/train_lora/pathor1_lora_sft_think.yaml \
-2>&1 | tee "$LOG_DIR/sft_lora_pathor1_think.log"
+llamafactory-cli train examples/train_lora/cross_scale_vqa_lora_sft.yaml \
+2>&1 | tee "$LOG_DIR/sft_lora_cross_scale_vqa.log"
