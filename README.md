@@ -1,11 +1,13 @@
 <h1 align="center">[MICCAI 2026] Enhancing Pathological VLMs with Cross-scale Reasoning</h1>
 
-<p align="center"> Chi Phan*, Tianyi Zhang*, Qiaochu Xue, Yufeng Wu, Dan Hu, Zeyu
-Liu, Sudong Wang, Yueming Jin </p>
+<p align="center"> Chi Phan*, Tianyi Zhang*, Qiaochu Xue, Yufeng Wu, Dan Hu, Zeyu Liu, Sudong Wang, Yueming Jin </p>
 
 <p align="center">
   <a href="https://conferences.miccai.org/2026/en/default.asp">
     <img src="https://img.shields.io/badge/MICCAI-2026-blue" alt="MICCAI 2026" />
+  </a>
+  <a href="https://chiphan1110.github.io/ScaleReasoner-R1-Project-Page/">
+    <img src="https://img.shields.io/badge/Project-Page-965091" alt="Project Page" />
   </a>
   <a href="https://arxiv.org/abs/2606.17412">
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper arXiv" />
