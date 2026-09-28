@@ -15,7 +15,7 @@
   <a href="https://huggingface.co/ChiPhan1110/ScaleReasoner-R1">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-ScaleReasoner--R1-green" alt="Model ScaleReasoner-R1" />
   </a>
-    <a href="https://huggingface.co/ChiPhan1110/ScaleReasoner-R1">
+    <a href="https://huggingface.co/datasets/ChiPhan1110/Scale-VQA">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Data-Scale--VQA-yellow" alt="Data Scale-VQA" />
   </a>
 </p>
@@ -155,7 +155,7 @@ pip install -e LLaMA-Factory/
 
 ## 🗂️ Dataset
 
-Download **Scale-VQA** from [HuggingFace](https://huggingface.co/datasets/iMVR-PL/Scale-VQA). The `data/` directory contains the train/val/test splits in JSON format. Each sample includes:
+Download **Scale-VQA** from [HuggingFace](https://huggingface.co/datasets/ChiPhan1110/Scale-VQA). The dataset repository contains the train/val/test splits in JSON format together with the referenced multi-magnification images. Each sample includes:
 
 ```json
 {
